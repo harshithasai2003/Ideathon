@@ -1,5 +1,5 @@
 # Hello!
-Please find the link for a simple quiz trivia website created:-  https://unixx77.github.io/website_hachthon/main
+Please find the link for a simple quiz trivia website created:-  https://unixx77.github.io/Ideathon/main
 
  The website includes:-
 a)Quiz Category Selection
